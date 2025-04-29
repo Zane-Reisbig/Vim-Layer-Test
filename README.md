@@ -1,5 +1,5 @@
 # Global Keyboard Hooks
-Made with the fantabulious [keyboard](https://pypi.org/project/keyboard/) library by (BoppreH)[https://pypi.org/user/BoppreH/]
+Made with the fantabulious [keyboard](https://pypi.org/project/keyboard/) library by [BoppreH](https://pypi.org/user/BoppreH/)
 <br/>
 <br/>
 
