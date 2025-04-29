@@ -1,4 +1,8 @@
 # Global Keyboard Hooks
+Made with the fantabulious [keyboard](https://pypi.org/project/keyboard/) library by (BoppreH)[https://pypi.org/user/BoppreH/]
+<br/>
+<br/>
+
 They run some code at the end of a list of keys bra'
 <br/>
 "b" -> "v" -> "w" will run the code 'Ctrl+Left + LShiftDown + Ctrl+Right'
